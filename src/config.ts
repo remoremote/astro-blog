@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "remoremote",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 12,
+  postPerPage: 24,
 };
 
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default

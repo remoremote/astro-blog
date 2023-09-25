@@ -13,7 +13,7 @@
     --color-border: 13, 63, 28;
   }
   html[data-theme="dark"] {
-    --color-fill: 33, 39, 55;
+    --color-fill: 0, 15, 4  ;
     --color-text-base: 234, 237, 243;
     --color-accent: 65, 189, 102;
     --color-card: 52, 63, 96;
