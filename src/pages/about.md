@@ -3,34 +3,10 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hello! I'm Remo Stahl, a curious explorer at the intersection of design, economics, product management, and software engineering. Currently, I'm steering the voyage of maison.work, where I meld aesthetic finesse with business strategy and technical prowess to craft meaningful user experiences in the realm of office spaces.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+My roots in graphic design have endowed me with a discerning eye for aesthetics, while my venture into economics and software engineering has honed my strategic and technical acumen. This amalgam has propelled me into the enriching domain of product management, where every day unfolds new learnings and avenues for innovation.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+I am a firm believer in the synergy of collaboration and continuous learning to foster innovation and excellence. The dynamic tapestry of today's market keeps me agile, always keen to learn, adapt, and enhance.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Here on my blog, I share snippets of insights, experiences, and the occasional musings on the ever-evolving world of product management, design, software engineering, and beyond. I invite you to explore, engage, and share your thoughts as we delve into the captivating crossroads of creativity, commerce, and code. Welcome to a glimpse of my professional odyssey!
